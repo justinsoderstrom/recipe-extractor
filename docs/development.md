@@ -16,7 +16,7 @@ feature folders when actual features arrive; do not create empty layers.
 
 ## Runtime and first-time setup
 
-Use .NET SDK 10.0.403, Node 24.18.1, and npm 11.16.0 as recorded in `global.json`,
+Use .NET SDK 10.0.403, Node 26.13.0, and npm 11.20.0 as recorded in `global.json`,
 `.node-version`, and the frontend manifest. For Visual Studio, use 2026 18.9 or
 later with ASP.NET/web development and JavaScript tooling. The SDK feature band
 requires this newer IDE even though earlier Visual Studio versions support React.

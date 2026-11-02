@@ -15,7 +15,7 @@ cloud settings, or simulated product functionality. Keep generated output ignore
 
 ## Runtime, setup, and commands
 
-Baseline: .NET SDK 10.0.403 (same-band patch roll-forward), Node 24.18.1, npm 11.16.0.
+Baseline: .NET SDK 10.0.403 (same-band patch roll-forward), Node 26.13.0, npm 11.20.0.
 Run all commands from the repository root. No cloud credentials are required.
 
 ```sh
