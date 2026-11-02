@@ -20,8 +20,8 @@ Azure deployment are planned and are **not implemented**.
 ## Quick start
 
 Install the [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
-and [Node.js 24](https://nodejs.org/). The checked-in baseline is .NET SDK
-**10.0.403**, Node **24.18.1**, and npm **11.16.0**. `global.json` permits newer
+and [Node.js 26](https://nodejs.org/). The checked-in baseline is .NET SDK
+**10.0.403**, Node **26.13.0**, and npm **11.20.0**. `global.json` permits newer
 servicing patches within the same SDK feature band; CI uses the recorded versions.
 
 Run once from the repository root:
