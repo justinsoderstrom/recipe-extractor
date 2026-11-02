@@ -1,0 +1,27 @@
+# Local tools and generated output
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/coverage/
+**/TestResults/
+.cache/
+.superpowers/
+.vs/
+*.user
+*.suo
+*.slnLaunch.user
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+**/appsettings.*.local.json
+*.pfx
+*.p12
+*.pem
+*.key

@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Recipe Extractor",
+    "Projects": [
+      {
+        "Path": "src\\api\\RecipeExtractor.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\web\\RecipeExtractor.Web.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build API",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/src/api/RecipeExtractor.Api.csproj"],
+      "problemMatcher": "$msCompile",
+      "group": "build"
+    }
+  ]
+}
